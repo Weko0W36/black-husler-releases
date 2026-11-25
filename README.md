@@ -1,5 +1,7 @@
 # Krewko
 
+Version stable : **Krewko 1.5.0 — build 4.5.0**. Les préversions restent disponibles séparément pour les essais.
+
 L’application de gestion des organisations RP. Actes, stocks, armes, comptabilité, membres, permissions, renseignements, carte, planning et messagerie dans un espace partagé.
 
 [Téléchargement Windows recommandé](https://krewko.fr/telecharger/windows) · [Site officiel](https://krewko.fr) · [Guides](https://krewko.fr/guides/utiliser) · [Support](https://krewko.fr/questions)
