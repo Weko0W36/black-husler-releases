@@ -2,7 +2,7 @@
 
 L’application de gestion des organisations RP. Actes, stocks, armes, comptabilité, membres, permissions, renseignements, carte, planning et messagerie dans un espace partagé.
 
-[Téléchargement Windows recommandé](https://krewko.fr/telecharger/windows) · [Site officiel](https://krewko.fr) · [Guides](https://krewko.fr/guides) · [Support](https://krewko.fr/questions)
+[Téléchargement Windows recommandé](https://krewko.fr/telecharger/windows) · [Site officiel](https://krewko.fr) · [Guides](https://krewko.fr/guides/utiliser) · [Support](https://krewko.fr/questions)
 
 Ce dépôt distribue les fichiers Windows. Le projet source est maintenu séparément.
 
@@ -30,3 +30,4 @@ L’état de signature des fichiers est précisé dans les notes de chaque publi
 Pour un problème, indiquer la version, le build et le message affiché. Garder les mots de passe et codes de groupe privés.
 
 Créé par Weko.
+
